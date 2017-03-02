@@ -1,7 +1,7 @@
 $( document ).ready(function() {
-    var r = 100;
-    var g = 100;
-    var b = 100;
+    var r = 125;
+    var g = 125;
+    var b = 125;
 
     $('#r1').on("change mousemouve",function(){
         r = $(this).val();
