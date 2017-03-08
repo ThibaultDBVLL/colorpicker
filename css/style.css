@@ -15,4 +15,9 @@
     flex-direction: row;
     color: blue; }
 
+  *{
+    background-repeat : no-repeat;
+    margin : 0;
+  }
+
 /*# sourceMappingURL=style.css.map */
